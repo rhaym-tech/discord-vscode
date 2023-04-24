@@ -1,6 +1,7 @@
 {
 	"KNOWN_LANGUAGES": [
 		{ "language": "abap", "image": "text" },
+		{ "language": "algorithm", "image": "algo" },
 		{ "language": "bat", "image": "bat" },
 		{ "language": "bibtex", "image": "text" },
 		{ "language": "clojure", "image": "clojure" },
@@ -66,6 +67,7 @@
 	"KNOWN_EXTENSIONS": {
 		".ahk": { "image": "ahk" },
 		".ahkl": { "image": "ahk" },
+		".algo": { "image": "algo"},
 		"androidmanifest.xml": { "image": "android" },
 		"/^angular[^.]*\\.js$/i": { "image": "angular" },
 		".applescript": { "image": "applescript" },
